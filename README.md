@@ -8,4 +8,5 @@ Using the Decorator design pattern to build a Basic Coffee, that can be decorate
 Project created as a Maven project, GUI developed using JavaFX, and project tested using JUnit testing framework. 
 
 <h2><strong>Application GUI:</strong></h2> 
-![](Images/start-screen.PNG)
+
+<image src="Images/start-screen.PNG" width="400" height="600"/>    <image src="Images/transaction-screen.PNG" width="400" height="600"/>
