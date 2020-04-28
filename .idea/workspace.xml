@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bc2a8c6-1505-42cb-a346-bc2f8f2f0ef8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aC28mkCFARdvCph8zDqfEW6V2Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fxmlExampleMaven" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="compile" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CoffeeShop Application">
+    <configuration name="CoffeeShop Application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MakeCoffee" />
+      <module name="CoffeeShopHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CoffeeShopHomework (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CoffeeShopHomework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CoffeeShopHomework" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="CoffeeShopHomework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="WORKING_DIRECTORY" value="C:\Users\12133\OneDrive\Desktop\Java\DecoratorHW_Sp2020" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CoffeeShopHomework [compile]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="CoffeeShopHomework [test-compile]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test-compile" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.CoffeeShop Application" />
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="JUnit.All in CoffeeShopHomework" />
+      <item itemvalue="JUnit.All in CoffeeShopHomework (1)" />
+      <item itemvalue="Maven.CoffeeShopHomework [compile]" />
+      <item itemvalue="Maven.CoffeeShopHomework [test-compile]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in CoffeeShopHomework (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bc2a8c6-1505-42cb-a346-bc2f8f2f0ef8" name="Default Changelist" comment="" />
+      <created>1586225102258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586225102258</updated>
+      <workItem from="1586225124481" duration="2759000" />
+      <workItem from="1586785822739" duration="47000" />
+      <workItem from="1588045398525" duration="146000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2606" y="200" key="#Unnamed" timestamp="1586227929910">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2606" y="200" key="#Unnamed/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586227929910" />
+    <state x="2345" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586227883215">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="102" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586225403805" />
+    <state x="2345" y="185" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586227883215" />
+    <state x="2660" y="277" key="FileChooserDialogImpl" timestamp="1588045606544">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="277" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588045606544" />
+    <state width="1877" height="455" key="GridCell.Tab.0.bottom" timestamp="1586227942268">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1202" height="235" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586225403893" />
+    <state width="1877" height="455" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586227942268" />
+    <state width="1877" height="455" key="GridCell.Tab.0.center" timestamp="1586227942268">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1202" height="235" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586225403893" />
+    <state width="1877" height="455" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586227942268" />
+    <state width="1877" height="455" key="GridCell.Tab.0.left" timestamp="1586227942268">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1202" height="235" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586225403893" />
+    <state width="1877" height="455" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586227942268" />
+    <state width="1877" height="455" key="GridCell.Tab.0.right" timestamp="1586227942268">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1202" height="235" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586225403893" />
+    <state width="1877" height="455" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586227942268" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1586227942257">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586227942257" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1586227942256">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586227942256" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1586227942256">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586227942256" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1586227942256">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586227942256" />
+    <state x="2442" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1588045458811">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="348" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1586225128216" />
+    <state x="2442" y="255" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1588045458811" />
+    <state x="348" y="167" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586785867175" />
+    <state x="2365" y="261" width="672" height="677" key="run.anything.popup" timestamp="1586226892361">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2365" y="261" width="672" height="677" key="run.anything.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1586226892361" />
+  </component>
+</project>
